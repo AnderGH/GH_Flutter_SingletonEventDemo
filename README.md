@@ -1,0 +1,2 @@
+# GH_Flutter_SingletonEventDemo
+使用单例模式实现最简单的全局事件总线
